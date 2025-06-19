@@ -4,10 +4,11 @@ import profilePic from '../assets/JayProfile.png';
 
 export default function Home() {
   return (
-    <section
-      id="home"
-      className="min-h-screen flex flex-col md:flex-row justify-center items-center bg-gradient-to-br from-blue-50 to-blue-100 text-center md:text-left px-6"
-    >
+      <section
+    id="home"
+    className="min-h-screen pt-24 flex flex-col md:flex-row justify-center items-center bg-gradient-to-br from-blue-50 to-blue-100 text-center md:text-left px-6"
+     >
+
       {/* Left - Text Content */}
       <div className="flex-1 space-y-6 px-10">
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-gray-800">
