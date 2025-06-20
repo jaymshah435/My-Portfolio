@@ -20,6 +20,21 @@ const projects = [
       'AI-driven platform where users submit code and receive Gemini-based feedback highlighting bugs, enhancements, and best practices in clean Markdown.',
     github: 'https://github.com/jaymshah435/Code-Reviewer',
   },
+  {
+  name: 'Emotion-Based Music Recommender',
+  tech: 'React.js, Node.js, Express.js, MongoDB, face-api.js, Tailwind CSS',
+  description:
+    'AI-powered web app that detects facial emotion via webcam and recommends songs using iTunes API. Features real-time analysis, emotion-song history, and a responsive UI.',
+  github: 'https://github.com/jaymshah435/Emotion-Based-Music-Recommender',
+  },
+  {
+    name: 'Explain This Code- Chrome Extention',
+    tech: 'React, Node.js, Express.js, OpenRouter GPT-3.5, Chrome Extension API',
+    description:
+      'Chrome extension and backend service that provides beginner-friendly AI explanations for code snippets using OpenRouter’s GPT-3.5 model.',
+    github: 'https://github.com/jaymshah435/Explain-This-Code',
+  }
+
 ];
 
 export default function Projects() {
