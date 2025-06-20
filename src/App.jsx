@@ -3,6 +3,7 @@ import Home from './components/Home';       // Your Home section
 import About from './components/About';     // Your About section
 import Skills from './components/Skills';   // Your Skills section
 import Projects from './components/Projects';     // Projects
+import Footer from './components/Footer';
 
 export default function App() {
   return (
@@ -13,6 +14,7 @@ export default function App() {
         <About />
         <Skills />
         <Projects />
+        <Footer />
       </main>
     </div>
   );

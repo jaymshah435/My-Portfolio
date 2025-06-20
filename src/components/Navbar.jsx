@@ -14,8 +14,8 @@ export default function Navbar() {
   return (
     <nav className="fixed top-0 left-0 w-full bg-white shadow-md z-50">
       <div className="max-w-7xl mx-auto px-6 py-5 flex items-center justify-between">
-        <div className="text-2xl font-bold text-blue-600 cursor-pointer">
-          Jay Shah
+        <div className="text-2xl font-bold text-blue-600">
+          J<span className="text-gray-800">S</span>
         </div>
         {/* Desktop menu */}
         <ul className="hidden md:flex space-x-8 text-gray-700 font-medium">
