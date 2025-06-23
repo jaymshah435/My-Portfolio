@@ -20,8 +20,7 @@ export default function About() {
           Engineering College.
         </p>
         <p className="text-lg leading-relaxed mt-4">
-          I love solving real-world problems with clean code and modern
-          frameworks like React, Node, and Express. I’m always eager to learn,
+          I love solving real-world problems with clean code and modern library, framework and runtime environment like React, Express and Node. I’m always eager to learn,
           grow, and contribute to impactful projects.
         </p>
       </div>

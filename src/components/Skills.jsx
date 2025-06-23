@@ -13,7 +13,7 @@ const skills = [
   { name: 'MySQL', icon: '/icons/MySQL.png' },
   { name: 'Postman', icon: '/icons/Postman.png' },
   { name: 'Git', icon: '/icons/Git.png' },
-  { name: 'AWS', icon: '/icons/AWS.png' },
+  { name: 'AWS SageMaker', icon: '/icons/AWSSageMaker.png' },
 ];
 
 export default function Skills() {
